@@ -2,7 +2,7 @@ package as;
 import java.util.*;
 
 public class Linked_List {
-    public static  void main(String args[]) throws  NoSuchElementException
+    public static  void main(String args[]) throws  NoSuchElementException,IndexOutOfBoundsException
     {
     LinkedList<String> ls = new  LinkedList<>();
     Scanner  sc = new Scanner(System.in);
