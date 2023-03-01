@@ -13,7 +13,7 @@ public String toString()
 return Ele;
 }
 }
-public class Array_list {
+class Array_list {
     public static  void main(String args[])
     {
         int ch=0;
